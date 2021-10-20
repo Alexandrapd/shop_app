@@ -134,13 +134,13 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "shop_app",
+      "name": "flutter_complete_guide",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.7"
+      "languageVersion": "2.11"
     }
   ],
-  "generated": "2021-10-20T15:00:24.326482Z",
+  "generated": "2021-10-20T15:11:15.532006Z",
   "generator": "pub",
   "generatorVersion": "2.12.3"
 }
