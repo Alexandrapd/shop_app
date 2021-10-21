@@ -37,6 +37,38 @@ class ProductsOverviewScreen extends StatelessWidget {
       imageUrl:
           'https://i.pinimg.com/474x/20/60/13/206013fb639ee67b1cff272af32787ff.jpg',
     ),
+    Product(
+      id: 'p5',
+      title: 'Shoes',
+      description: 'Get beautiful white shoes!',
+      price: 79.99,
+      imageUrl:
+          'https://i.pinimg.com/474x/48/a4/4f/48a44ff46b2c379c9c4b21f9ef5129cc.jpg',
+    ),
+    Product(
+      id: 'p6',
+      title: 'Hoody',
+      description: 'A cozy hoody for autumn.',
+      price: 99.99,
+      imageUrl:
+          'https://i.pinimg.com/474x/6e/3d/b3/6e3db3b5616c0d941068ddaa633edb4b.jpg',
+    ),
+    Product(
+      id: 'p7',
+      title: 'Trousers',
+      description: 'A cozy trousers for autumn.',
+      price: 49.99,
+      imageUrl:
+          'https://i.pinimg.com/474x/ae/59/39/ae59395a6586c38727dd5faf9d21161f.jpg',
+    ),
+    Product(
+      id: 'p8',
+      title: 'T-shirt',
+      description: 'Interesting design of t-shirt for you.',
+      price: 19.99,
+      imageUrl:
+          'https://i.pinimg.com/474x/4d/07/37/4d073701df77411923161938b1cad58e.jpg',
+    ),
   ];
 
   @override
